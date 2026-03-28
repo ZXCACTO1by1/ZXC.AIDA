@@ -12,7 +12,7 @@
 
 ---
 
-A desktop-first hardware monitoring application for Windows 10 and Windows 11.
+A desktop hardware monitoring application for Windows 10 and Windows 11.
 Fast startup · Low overhead · Real-time telemetry · Calm, Windows-native interface.
 
 </div>
@@ -177,11 +177,3 @@ ZXC.AIDA uses **real Windows and vendor-backed sources** where available:
 > - DIMM temperature is only shown when a real source exposes it.
 
 <br>
-
----
-
-<div align="center">
-
-**ZXC.AIDA** — honest diagnostics for real hardware.
-
-</div>
